@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../receita"
+		},
+		{
+			"path": "../receita.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "receita"
+	}
+}
