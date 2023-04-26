@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../receita"
+		},
+		{
+			"path": "../receita.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cadastro",
+		"liveServer.settings.port": 5501
+	}
+}
