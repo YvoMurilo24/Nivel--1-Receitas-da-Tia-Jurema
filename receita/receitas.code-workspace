@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Receitas.css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "receita",
+		"liveServer.settings.port": 5501
+	}
+}
